@@ -1,0 +1,3 @@
+session:
+  name: genderage
+  model_type: GenderAge

@@ -1,0 +1,4 @@
+session:
+  name: detection
+  input_size: [224, 224]
+  model_type: RetinaFace
