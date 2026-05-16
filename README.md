@@ -15,9 +15,8 @@
 4. Линейный регрессор `FatigueRegressor` предсказывает **уровень усталости**
 5. Результат сохраняется в базу, строится график динамики
 
-<img width="487" height="588" alt="Screenshot_279" src="https://github.com/user-attachments/assets/3c3b108d-a9e5-4e6a-ad57-0c64ba34cc74" />
-<img width="465" height="610" alt="Screenshot_278" src="https://github.com/user-attachments/assets/beb7b1cc-1414-4dee-b076-465cb7bd0330" />
-
+<img width="487" height="588" alt="Screenshot_279" src="https://github.com/user-attachments/assets/76c60f57-d84c-418c-ac69-7fa09f69a258" />
+<img width="465" height="610" alt="Screenshot_278" src="https://github.com/user-attachments/assets/b308ba96-6dfd-4ef9-810e-c86f699362a8" />
 
 ---
 
